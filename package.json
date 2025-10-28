@@ -6,5 +6,9 @@
     "build": "echo 'no build step needed'",
     "start": "n8n start"
   },
+  "dependencies": {
+    "n8n": "^1.52.1"
+  },
   "license": "MIT"
 }
+
