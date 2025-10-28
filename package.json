@@ -1,0 +1,10 @@
+{
+  "name": "kymeraai-n8n-deploy",
+  "version": "1.0.0",
+  "description": "Render deployment for n8n",
+  "scripts": {
+    "build": "echo 'no build step needed'",
+    "start": "n8n start"
+  },
+  "license": "MIT"
+}
